@@ -42,6 +42,8 @@
 
 .Info{
 	border-color: black;
+	color:  black
+	height: 1em;
 }
 
 .main {
@@ -51,8 +53,7 @@
 
 .sidebar { 
 	grid-area: sidebar;
-	background-color: rgb(224,224,224);
-	
+	background-color: rgb(224,224,224);	
 }
 
 ul{
